@@ -1,1 +1,4 @@
-saafdfd,mfn.dksjsda
+int mul (int a, int b) {
+
+    return a*b;
+}
